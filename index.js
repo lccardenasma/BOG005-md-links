@@ -1,3 +1,5 @@
-module.exports = () => {
+const mdLinks = (path, option) => {};
+
+/*module.exports = () => {
   // ...
-};
+};*/
